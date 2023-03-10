@@ -1,8 +1,11 @@
 # DocnextDoor
-An android app where you can  
-1) Book doctoris appointment 
+An simple android app where you can  
+1) Book doctor's appointment 
 2) See nearbuy hospitals 
 3) Set pill reminders
+
+
+Techstack : Java, Android studio, SQLite
 
 
 
