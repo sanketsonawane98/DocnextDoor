@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313218114806",
+    "project_id": "myapp-2a36c",
+    "storage_bucket": "myapp-2a36c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313218114806:android:06a50edd00d3f18306b8d7",
+        "android_client_info": {
+          "package_name": "com.example.medilyf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313218114806-trccofl1pvrt82uu3gj0sh2e65u73oud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA02dAyR4TUeuQsYtwjHnUuxdjRvkMXnPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313218114806-trccofl1pvrt82uu3gj0sh2e65u73oud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

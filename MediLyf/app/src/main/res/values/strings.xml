@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">MediLyf</string>
+    <string name="l1">New User? Sign Up</string>
+    <string name="l2">Sign In</string>
+    <string name="l3">Forget Password</string>
+    <string name="l4">password</string>
+    <string name="l5">username</string>
+    <string name="l6">Sign In To Continue</string>
+    <string name="l7">Hello There, Welcome Back</string>
+    <string name="s1">Welcome</string>
+    <string name="s2">Sign Up To Start</string>
+    <string name="s3">Full Name</string>
+    <string name="s4">Username</string>
+    <string name="s5">Email</string>
+    <string name="s6">Phone No</string>
+    <string name="s7">Password</string>
+    <string name="s8">Sign Up</string>
+    <string name="s9">Already Have An Account? Sign In</string>
+    <string name="t1">Fill All The Fields....</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="pill_reminder">Pill reminder</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="appointments">Appointments</string>
+
+    <string name="title_medicine_name">Medicine Name</string>
+    <string name="hint_enter_med_name">Enter Medicine</string>
+    <string name="medicine_days">Medicine Days</string>
+    <string name="title_treatment_deadline">Treatment deadline</string>
+    <string name="title_continuous_use">Continuous use</string>
+    <string name="title_reminder">Reminder</string>
+    <string name="new_medicine">NEW MEDICINE</string>
+    <string name="every_day">Every day</string>
+    <string name="no_medicine_added">No Medicine Added</string>
+    <string name="loading_tasks_error">Error while loading medicineAlarms</string>
+    <string name="successfully_saved_me_message">Medicine Added Successfully</string>
+    <string name="successfully_deleted_message">Medicine deleted Successfully</string>
+    <string name="reminder_message">It\'s Time to take your medicine</string>
+    <string name="ignored">IGNORED</string>
+    <string name="taken">TAKEN</string>
+    <string name="all">ALL</string>
+    <string name="menu_filter">Filter</string>
+    <string name="all_label">All Medicines</string>
+    <string name="ignore_label">Medicines Ignored</string>
+    <string name="taken_label">Medicine Taken</string>
+    <string name="no_history">No History Found</string>
+    <string name="no_taken_med_history">You have not taken any medicine</string>
+    <string name="no_ignored_history">Well Done</string>
+    <string name="menu_stats">Monthly Report</string>
+    <string name="_1_0">1.0</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="splash">splashActivityImage</string>
+    <string name="txtTitle">CAreForMe</string>
+    <string name="title_activity_pharmacy__maps">Pharmacy Search</string>
+    <string name="DoctorButton">Doctor Login</string>
+    <string name="AdminButton">Admin Login</string>
+    <string name="Email" />
+    <string name="password" />
+    <string name="Taable">create tabele</string>
+    <string name="PhoneNumber" />
+    <string name="Name" />
+    <string name="enterName">Enter your full name</string>
+    <string name="HintEmail">Enter email id</string>
+    <string name="hintPassword">Create password</string>
+    <string name="hintPhone">Enter your phone number</string>
+    <string name="Number" />
+    <string name="Phone">phone</string>
+    <string name="HintPass">Passsword</string>
+    <string name="HintName">Name</string>
+    <string name="LoginActivity">Login</string>
+    <string name="passwordL">PassWord</string>
+    <string name="EmailLogin">Email</string>
+    <string name="LoginBtn">Login</string>
+    <string name="Logo">Book Appointment</string>
+    <string name="SelDocHeading">Please select Doctor</string>
+    <string name="SelDate">Please select date For Appointment</string>
+    <string name="Date" />
+    <string name="PickDate">Select Date for Appointment</string>
+    <string name="DisplayDate" />
+    <string name="DateFormat">mm/dd/yyyy</string>
+    <string name="ShowTimeSlot">Show Available time slots</string>
+    <string name="NewLayout" />
+    <string name="Logindisp" />
+    <string name="disPhone" />
+    <string name="DispEm" />
+    <string name="DocName" />
+    <string name="DateA" />
+    <string name="BookA">Book Appointment</string>
+    <string name="TimeSlot1">9:00 - 10:30</string>
+    <string name="TimeSlot2">10:30 -11:30</string>
+    <string name="TimeSlot3">11:30 -12:30</string>
+    <string name="TimeSlot4">2:00 - 3:00</string>
+    <string name="TimeSlot5">3:00 -4:00</string>
+    <string name="TimeSlot6">4:00 - 5:00</string>
+    <string name="TimeSlot7">5:00 - 6:00</string>
+    <string name="TSlot">Show available Time slots</string>
+    <string name="txtLogin">Register</string>
+    <string name="PatientButton">Patient Login</string>
+    <string name="txtmemLogin">Already Member</string>
+    <string name="txtdoc">Doctor Name</string>
+    <string-array name="DocName">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+    <string-array name="TimeSlots">
+        <item>Start time 8:00 AM</item>
+        <item>Start time 8:30 AM</item>
+        <item>Start time 9:00 AM</item>
+        <item>Start time 9:30 AM</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtmaintitle">CareForMe</string>
+    <string name="txttag">Upgrade Your Healthcare</string>
+    <string name="btnregistermain">Register</string>
+    <string name="btnloginmain">Login</string>
+    <string name="txtFormtitle">Appointment Details</string>
+    <string name="ApointH">Apointment Time</string>
+    <string name="btnformhome">Home</string>
+    <string name="PhoneH">Phone</string>
+    <string name="welcome_to_appointment_booking_section">Welcome to Appointment booking section !!</string>
+    <string name="hello">Hello</string>
+    <string name="hello_you_are_in_basic_activity">Hello you are in basic activity !!</string>
+    <string name="dr_anil_desousa">Dr. Anil Desousa</string>
+    <string name="get_date">get date</string>
+    <string name="get_time">get time</string>
+    <string name="_91_999999999">+91-999999999</string>
+    <string name="phone">Phone</string>
+    <string name="chris_morris">Chris Morris</string>
+    <string name="name">Name</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="dr">dr</string>
+    <string name="get_date2">Get Date</string>
+    <string name="get_date3">Get Date</string>
+    <string name="enter_date">Click to select Date</string>
+    <string name="get">get time</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="confirm_booking">Confirm booking</string>
+    <string name="dr_name">Dr name</string>
+    <string name="course_name">Course Name</string>
+    <string name="course_tracks">Course Tracks</string>
+    <string name="description">Description</string>
+    <string name="belal_khan">Belal Khan</string>
+    <string name="technical">Technical</string>
+    <string name="inr_40000">INR 40000</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="view_appointment">View Appointment</string>
+    <string name="enter_your_registered_username">Enter your registered Username</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="repassword">Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="confirm_password">confirm Password</string>
+
+
+</resources>
